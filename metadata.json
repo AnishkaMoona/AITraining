@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse Event & Deadline Tracker",
+  "description": "Comprehensive school event management platform to track academic deadlines, club meetings, and campus events with Google Calendar sync and reminder notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
